@@ -1,6 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
 html, body {
-    background-color: var( --surface-a );
+    background-color: var( --surface-b );
     font-family: var( --font-family );
     margin: 5px;
 }
@@ -8,4 +8,5 @@ html, body {
 .text-layout{
     color: var( --text-color );
 }
+
 
